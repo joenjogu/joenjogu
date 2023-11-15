@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joe Njogu
 - 👀 I’m interested in Android Engineering and Machine Learning
-- 🌱 I’m currently learning Android Development with Kotlin and Data Science with Python
-- 💞️ I’m looking to collaborate on anything really
+- 🌱 I’m currently learning Android Development with Kotlin and Backend Development with Java SpringBoot
+- 💞️ I’m looking to collaborate on anything interesting, feel free to reach out!
 - 📫 How to reach me: [joenjogu97@gmail.com](mailto:joenjogu97@gmail.com) or DM me on [twitter](https://twitter.com/joe_njogu)
 
 <!---
